@@ -12,7 +12,7 @@ import java.util.*;
 import java.sql.*;
 
 
-public class Issue {
+public class Iss {
     
     int id_student;
     String student_firstname;
